@@ -1,0 +1,142 @@
+
+
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Oswald&display=swap');
+
+
+body{
+background-repeat: no-repeat;
+background-image: url(fight\ club.jpg);
+background-position:center;
+background-attachment: fixed;
+text-align: center;
+color: aliceblue;
+font-family: 'Oswald', sans-serif;
+
+
+}
+h1{
+  text-transform: uppercase;
+  font-family:'Oswald', sans-serif;
+  color: black;
+  text-align: center;
+  }
+  
+  h2{
+  
+    text-transform: uppercase;
+    font-family:'Oswald', sans-serif;
+  
+  }
+
+  
+
+header{
+display: flex;
+justify-content: space-between;
+background-color: rgba(255, 255, 255, 0.671);
+background-position-x: center;
+
+}
+nav{
+  display:flex;
+  font-family: 'Oswald', sans-serif;
+  text-align: right;
+  
+  }
+  
+  
+  
+
+
+section{
+text-align:left;
+background-color: rgba(0, 0, 0, 0.644);
+
+}
+
+
+article{
+
+text-align: right;
+color: aliceblue;
+
+}
+
+.contender{
+
+  text-align: left;
+}
+img{
+height: auto;
+  width: 400px;
+
+
+}
+
+.nav-item{
+
+  color: black;
+}
+
+
+.navar{
+padding: 5px;
+  justify-content: space-between;
+}
+
+p{
+
+ text-transform: uppercase;
+}
+
+  
+
+
+.position{
+
+  background-position:center;
+}
+
+footer{
+  background-color: rgba(235, 221, 221, 0.719);
+}
+.container{
+text-align:center;
+
+}
+.twitter-tweet{
+  text-align: right;
+  justify-content: space-between;
+}
+.Rakhmonov{
+  text-align: left;
+}
+
+.declaracion{
+
+  text-align: left;
+}
+
+.container{
+-ms-flex-align: center;
+
+}
+
+.form-control{
+
+  background-color: rgba(71, 69, 69, 0.432);
+}
+
+iframe{
+  align-content: center;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+text-align: center;
+align-content: center;
+}
